@@ -16,7 +16,7 @@ This project helped me develop the following skills:
 |---|---|
 | **Degrees of Freedom** | 3 (Base, Elbow, Gripper) |
 | **Control System** | MG90 Servo |
-| **Primary Material** | 3D-Printable (e.g., PLA, ABS) |
+| **Primary Material** | ABS |
 | **Software** | OnShape |
 
 ---
