@@ -27,17 +27,7 @@ This project helped me develop the following skills:
 |---|---|---|
 | ![Front View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/front.png?raw=true) | ![Right Side View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/right.png?raw=true) | ![Isometric View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/iso.png?raw=true) |
 
----
 
-## Bill of Materials (BOM)
-
-| Part | Quantity | Notes |
-|---|---|---|
-| 3D Printed Parts | 1 | See STL file below |
-| MG90 Servo | 1 | |
-| M3 Screws | 4 | For mounting the servo |
-
----
 
 ## Assembly
 
