@@ -37,10 +37,11 @@ This project helped me develop the following skills:
 
 ---
 
-## 3D Model STL File
+## 3D Model Files
 
-You can download the main assembly STL file for 3D printing here:
+You can download the main assembly files here:
 
-[**Main_Assembly.stl**](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/CAD/Main_Assembly.stl?raw=true)
+- [**Main_Assembly.stl**](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/CAD/Main_Assembly.stl?raw=true) (for 3D printing)
+- [**Main Assembly.step**](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/CAD/Main%20Assembly.step?raw=true) (for other CAD users to open in their own workspace)
 
 > **Note:** This STL is designed for 3D printing with an MG90 servo integrated. It was created as a learning project using OnShape.
