@@ -1,6 +1,6 @@
 # Robotic Arm Project
 
-This was my first CAD project using **OnShape**. The design uses an **MG550 servo** and is intended for **3D printing**.  
+This was my first CAD project using **OnShape**. The design uses an **MG90 servo** and is intended for **3D printing**.  
 It helped me get comfortable with:
 - Modeling
 - Extruding
@@ -12,14 +12,21 @@ The STL file is designed to be printable by another member of our **robotics tea
 
 ---
 
-## 🔧 Rendered Views
+## Views of the Robotic Arm
 
-![Front View](./Images/front.png)  
-![Isometric View](./Images/iso.png)  
-![Right Side View](./Images/right.png)
+### Front View
+![Front View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/front.png?raw=true)  
 
----
+### Right View
+![Right Side View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/right.png?raw=true)
 
-## 📁 CAD Files
+### Isometric View
+![Isometric View](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/Images/iso.png?raw=true)
 
-- [Main_Assembly.stl](./CAD/Main_Assembly.stl)
+## 3D Model STL File
+
+You can download the main assembly STL file for 3D printing here:
+
+[Main_Assembly.stl](https://github.com/addiosy/Portfolio/blob/main/Robotic-Arm/CAD/Main_Assembly.stl?raw=true)
+
+> Note: This STL is designed for 3D printing with an MG90 servo integrated. It was created as a learning project using OnShape.
