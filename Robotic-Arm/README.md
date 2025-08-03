@@ -14,7 +14,7 @@ This project helped me develop the following skills:
 
 | Feature | Detail |
 |---|---|
-| **Degrees of Freedom** | 3 (Base, Elbow, Gripper) |
+| **Degrees of Freedom** | 3 (Base, Wrist, Gripper) |
 | **Control System** | MG90 Servo |
 | **Primary Material** | ABS |
 | **Software** | OnShape |
