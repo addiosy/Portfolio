@@ -1,11 +1,11 @@
 # Robotic Arm Project
 
-This was my first CAD project using **OnShape**. The design uses an **MG90 servo** and is intended for **3D printing**.  
+This was my first big project using **OnShape**. The design uses an **MG90 servo** and is intended for **3D printing**.  
 It helped me get comfortable with:
 - Modeling
 - Extruding
-- Editing in context
-- Importing files from **GrabCAD**
+- Editing in context, including using the **derive feature** to work with other parts of the arm
+- Importing files from **GrabCAD** and **MKCAD**
 - Exploring third-party plugins in OnShape
 
 The STL file is designed to be printable by another member of our **robotics team**.
