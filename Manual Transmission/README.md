@@ -14,17 +14,13 @@ This project was a deep dive into the practical application of mechanical princi
 
 ## Images
 
-**Isometric View**
-![Isometric View](Images/iso.png)
+| Isometric View | Right View |
+| :---: | :---: |
+| ![Isometric View](Images/iso.png) | ![Right View](Images/right.png) |
 
-**Right View**
-![Right View](Images/right.png)
-
-**Mates**
-
-Here are some of the mates used in the assembly:
-![Mates 1](Images/mates1.png)
-![Mates 2](Images/mates2.png)
+| Mates 1 | Mates 2 |
+| :---: | :---: |
+| ![Mates 1](Images/mates1.png) | ![Mates 2](Images/mates2.png) |
 
 **Reference Image**
 
