@@ -25,6 +25,7 @@ This project was a deep dive into the practical application of mechanical princi
 **Reference Image**
 
 This project was modeled using the following image as a reference:
+
 ![Reference Image](Images/Reference%20(autohowstuffworks).webp)
 
 ## CAD Files
