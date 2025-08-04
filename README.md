@@ -13,8 +13,9 @@ I am a high school student at Sir Wilfrid Laurier Secondary School in London, On
 - [View Project Details](Robotic-Arm/README.md)
 
 ### Gear Ratio Practice
-- A project focused on understanding and applying gear ratios in mechanical design.
+- A 6-speed manual transmission model designed to practice and visualize the application of gear ratios.
 - **Technologies used:** OnShape
+- [View Project Details](Manual-Transmission/README.md)
 
 ## Contact
 - **Email:** andydiosy121@gmail.com
