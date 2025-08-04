@@ -1,6 +1,6 @@
 # Robotic Arm Project
 
-This project is a 3D-printable robotic arm designed in **OnShape**. It was my first major project using the software and served as a great learning experience in 3D modeling, assembly, and part integration. Im proud to show it off as my first repo! The design is optimized for use with an **MG90 servo**.
+This project is a 3D-printable robotic arm designed in **OnShape**. It was my first major project using the software and served as a great learning experience in 3D modeling, assembly, and part integration.  The design is optimized for use with an **MG90 servo**.
 
 This project helped me develop the following skills:
 - Advanced 3D Modeling & Extruding
