@@ -17,6 +17,10 @@ I am a high school student at Sir Wilfrid Laurier Secondary School in London, On
 - **Technologies used:** OnShape
 - [View Project Details](Manual-Transmission/README.md)
 
+### Robotic Chassis (Work in Progress)
+- A project to practice modeling a FIRST Robotics Competition (FRC) chassis with swerve modules.
+- **Technologies used:** SolidWorks, OnShape
+
 ## Contact
 - **Email:** andydiosy121@gmail.com
 - **School Email:** 362597924@gotvdsb.ca
